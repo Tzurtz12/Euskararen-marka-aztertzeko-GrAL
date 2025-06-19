@@ -1,7 +1,7 @@
 Lan honetan euskararen marka aztertzeko algoritmo ezberdinak eraiki dira. Horretarako, hiru kode nagusi idatziz, euskararen kudeaketa automatikoa gauzatzeko adimen artifizialaren erabilerak aztertu dira ondorengo hiru kasu nagusitan:
-* **Euskararen detekzio automatikoa** $\rightarrow$ Maiztasunak
-* **Euskarazko testuen sailkapen tematikoa:** $\rightarrow$ Sailkapena
-* **Euskarazko testuen sentimenduen analisia:** $\rightarrow$ Sentimen analysis
+* **Euskararen detekzio automatikoa** $\Longrightarrow$ Maiztasunak
+* **Euskarazko testuen sailkapen tematikoa:** $\Longrightarrow$ Sailkapena
+* **Euskarazko testuen sentimenduen analisia:** $\Longrightarrow$ Sentimen analysis
 
 Bestalde, erabilitako datu base nagusiak karpetan aurki daitezke.
 
